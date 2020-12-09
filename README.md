@@ -2,7 +2,7 @@
 
 Day 11: Random Pokemon
 
-<!-- ![demo picture](./ghstatus.png) -->
+![demo picture](./pokegen.gif)
 
 ## Description
 What is your today's pokemon? 
